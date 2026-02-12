@@ -14,6 +14,6 @@
 🛠 Languages & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,c,mysql,figma,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,c,mysql,androidstudio,figma,git" />
   </a>
 </p>
