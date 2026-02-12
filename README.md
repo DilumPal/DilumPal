@@ -2,10 +2,14 @@
 
 ### Turning ideas into clean, functional, and scalable web applications.
 
-💻 Interested in Full-Stack Development and Data Science 
-🚀 Building projects using modern web technologies
-🌱 Continuously improving my problem-solving and software design skills
-🎯 Focused on writing clean code and understanding how systems work
+<div align="left">
+
+* 💻 **Focus:** Interested in Full-Stack Development and Data Science.
+* 🚀 **Execution:** Building projects using modern web technologies.
+* 🌱 **Growth:** Continuously improving problem-solving and software design skills.
+* 🎯 **Quality:** Focused on writing clean code and understanding how systems work.
+
+</div>
 
 🛠 Languages & Tools
 <p align="left">
