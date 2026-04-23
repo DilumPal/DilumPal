@@ -11,9 +11,16 @@
 
 </div>
 
-🛠 Languages & Tools
+### 🛠 Languages & Tools
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,c,mysql,androidstudio,figma,git" />
   </a>
+</p>
+
+### 📊 GitHub Activity
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=DilumPal&show_icons=true&theme=radical&hide_border=true" alt="Dilum's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilumPal&layout=compact&theme=radical&hide_border=true" alt="Dilum's Top Languages" />
 </p>
